@@ -1,4 +1,4 @@
-# sphere
+# Sphere
 Approximating a sphere using p5.js
 
 ## Version 1: Rings
