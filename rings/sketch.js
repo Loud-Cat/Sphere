@@ -6,7 +6,7 @@
 // When this variable is true, the animation will
 // Stop after one finished animation to make it easier
 // To export via screen recorder
-let stop_anim = true;
+let stop_anim = false;
 
 function setup() {
   createCanvas(windowWidth, windowHeight, WEBGL);
