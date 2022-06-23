@@ -1,2 +1,2 @@
 # sphere
-Approximating a sphere with maths
+Approximating a sphere using p5.js
