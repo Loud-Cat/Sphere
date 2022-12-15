@@ -1,5 +1,5 @@
 # Sphere
-Approximating a sphere using p5.js
+Approximating a sphere using Processing and p5.js 
 
 ## Version 1: Rings
 ![Preview](rings/preview.gif)
