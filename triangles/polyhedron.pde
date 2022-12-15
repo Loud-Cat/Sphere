@@ -12,6 +12,7 @@ boolean recording = false;
 
 void setup() {
   size(600, 600, P3D);
+  noStroke();
 }
 
 void draw() {
